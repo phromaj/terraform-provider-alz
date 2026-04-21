@@ -3,7 +3,26 @@
     "linux_amd64": {
       "url": "https://github.com/phromaj/terraform-provider-alz/releases/download/v0.21.0-bleu.1/terraform-provider-alz_0.21.0-bleu.1_linux_amd64.zip",
       "hashes": [
-        "h1:zIhmdHP2MaPhThqCjmTkXtoFJvAp/SdSfiNublnKBfc="
+        "h1:zIhmdHP2MaPhThqCjmTkXtoFJvAp/SdSfiNublnKBfc=",
+        "zh:cebc207ed948e0032588bb39a169de672fd4273901652acdbe7336b218d84694"
+      ]
+    },
+    "linux_arm64": {
+      "url": "https://github.com/phromaj/terraform-provider-alz/releases/download/v0.21.0-bleu.1/terraform-provider-alz_0.21.0-bleu.1_linux_arm64.zip",
+      "hashes": [
+        "zh:860e32216b7457d811bf7f05278372b814fc1b9c09ce681fab9dee8146b57128"
+      ]
+    },
+    "darwin_arm64": {
+      "url": "https://github.com/phromaj/terraform-provider-alz/releases/download/v0.21.0-bleu.1/terraform-provider-alz_0.21.0-bleu.1_darwin_arm64.zip",
+      "hashes": [
+        "zh:0e4a1774044e509a34ca6b51e9b9041142b91b244fb64af077dd6d86eabd6fd1"
+      ]
+    },
+    "windows_amd64": {
+      "url": "https://github.com/phromaj/terraform-provider-alz/releases/download/v0.21.0-bleu.1/terraform-provider-alz_0.21.0-bleu.1_windows_amd64.zip",
+      "hashes": [
+        "zh:85c3a0528ca3c65bdc3853341e540444bbbf744ef49948321ddd9ee624152290"
       ]
     }
   }
